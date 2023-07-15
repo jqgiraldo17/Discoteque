@@ -1,0 +1,12 @@
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.deps.json
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.dll
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.pdb
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.csproj.AssemblyReference.cache
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.AssemblyInfoInputs.cache
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.AssemblyInfo.cs
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.csproj.CoreCompileInputs.cache
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.dll
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/obj/Debug/net7.0/refint/Discoteque.Data.dll
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.pdb
+/home/jaqueline/Desktop/Bootcamp .NET/Discoteque/Discoteque.Data/obj/Debug/net7.0/ref/Discoteque.Data.dll
