@@ -3,18 +3,20 @@ using Discoteque.Data.Models;
 
 namespace Discoteque.Business.Services;
 
-public class ArtistService : IArtistService
+public class ArtistsService : IArtistsService
 {
-    //private Random random = new Random();
   
     public async Task<Artist> CreateArtist(Artist artist)
     {
-        return new Artist(){
-            Id = 1,
-            Name = "Master",
-            Label = "EMI",
-            IsOnTour = true
+        var newArtist = new Artist()
+        {
+            Id = Random.Shared.Next(0, 100),
+            Name = artist.Name,
+            Label = artist.Label,
+            IsOnTour = artist.IsOnTour
         };
+
+        return newArtist;
     }
 
     public async Task<IEnumerable<Artist>> GetArtistsAsync()
@@ -27,6 +29,7 @@ public class ArtistService : IArtistService
             Label = "EMI",
             IsOnTour = true
         });
+        
         list.Add(new Artist(){
             Id = Random.Shared.Next(0, 100),
             Name = "Kelly Minogue",
